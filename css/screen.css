@@ -1,6 +1,7 @@
 html * { margin: 0; padding: 0; border: 0; font-size: 16px; font-weight: normal; text-decoration: none;}
 
 body {
+    background-color:#333;
 	background-image: url('debut_dark.png');
     font-family: 'Helvetica', 'Arial', sans-serif;
 	font-size: 16px; 
